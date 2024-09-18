@@ -96,8 +96,8 @@ Income,Cash,Q4-2023,21000.00
 Income,Cash,Q1-2024,26000.00
 Income,Cash,Q2-2024,30000.00
 ProfitLoss,TotalProfitLoss,Q1-2023,7215.00
-Profit/Loss,TotalProfitLoss,Q2-2023,5014.00
-Profit/Loss,TotalProfitLoss,Q3-2023,3436.00
-Profit/Loss,TotalProfitLoss,Q4-2023,4694.00
-Profit/Loss,TotalProfitLoss,Q1-2024,14327.00
-Profit/Loss,TotalProfitLoss,Q2-2024,14028.00
+ProfitLoss,TotalProfitLoss,Q2-2023,5014.00
+ProfitLoss,TotalProfitLoss,Q3-2023,3436.00
+ProfitLoss,TotalProfitLoss,Q4-2023,4694.00
+ProfitLoss,TotalProfitLoss,Q1-2024,14327.00
+ProfitLoss,TotalProfitLoss,Q2-2024,14028.00
