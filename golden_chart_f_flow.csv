@@ -71,12 +71,6 @@ Expense,LicencesAndSoftware,Q3-2023,3500.00
 Expense,LicencesAndSoftware,Q4-2023,3500.00
 Expense,LicencesAndSoftware,Q1-2024,3500.00
 Expense,LicencesAndSoftware,Q2-2024,3500.00
-Expense,TotalExpense,Q1-2023,26685.00
-Expense,TotalExpense,Q2-2023,27486.00
-Expense,TotalExpense,Q3-2023,28964.00
-Expense,TotalExpense,Q4-2023,26606.00
-Expense,TotalExpense,Q1-2024,26673.00
-Expense,TotalExpense,Q2-2024,27772.00
 Income,GrantsAndSubsidies,Q1-2023,5000.00
 Income,GrantsAndSubsidies,Q2-2023,0.00
 Income,GrantsAndSubsidies,Q3-2023,0.00
@@ -101,12 +95,6 @@ Income,Cash,Q3-2023,23000.00
 Income,Cash,Q4-2023,21000.00
 Income,Cash,Q1-2024,26000.00
 Income,Cash,Q2-2024,30000.00
-Income,TotalIncome,Q1-2023,33900.00
-Income,TotalIncome,Q2-2023,32500.00
-Income,TotalIncome,Q3-2023,32400.00
-Income,TotalIncome,Q4-2023,31300.00
-Income,TotalIncome,Q1-2024,41000.00
-Income,TotalIncome,Q2-2024,41800.00
 ProfitLoss,TotalProfitLoss,Q1-2023,7215.00
 Profit/Loss,TotalProfitLoss,Q2-2023,5014.00
 Profit/Loss,TotalProfitLoss,Q3-2023,3436.00
