@@ -24,11 +24,11 @@ Expense,Insurance,4,2023,1700.00
 Expense,Insurance,1,2024,1700.00
 Expense,Insurance,2,2024,1700.00
 Expense,Maintenance and Repairs,1,2023,300.00
-Expense,Maintenance and Repairs,2,2023,
+Expense,Maintenance and Repairs,2,2023,0.00
 Expense,Maintenance and Repairs,3,2023,2100.00
-Expense,Maintenance and Repairs,4,2023,
-Expense,Maintenance and Repairs,1,2024,
-Expense,Maintenance and Repairs,2,2024,
+Expense,Maintenance and Repairs,4,2023,0.00
+Expense,Maintenance and Repairs,1,2024,0.00
+Expense,Maintenance and Repairs,2,2024,0.00
 Expense,OfficeRent,1,2023,6500.00
 Expense,OfficeRent,2,2023,6500.00
 Expense,OfficeRent,3,2023,6500.00
@@ -78,10 +78,10 @@ Expense,TotalExpense,4,2023,26606.00
 Expense,TotalExpense,1,2024,26673.00
 Expense,TotalExpense,2,2024,27772.00
 Income,GrantsAndSubsidies,1,2023,5000.00
-Income,GrantsAndSubsidies,2,2023,
-Income,GrantsAndSubsidies,3,2023,
-Income,GrantsAndSubsidies,4,2023,
-Income,GrantsAndSubsidies,1,2024,
+Income,GrantsAndSubsidies,2,2023,0.00
+Income,GrantsAndSubsidies,3,2023,0.00
+Income,GrantsAndSubsidies,4,2023,0.00
+Income,GrantsAndSubsidies,1,2024,0.00
 Income,GrantsAndSubsidies,2,2024,5000.00 	
 Income,Subscriptions,1,2023,7400.00
 Income,Subscriptions,2,2023,7600.00
