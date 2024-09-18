@@ -1,0 +1,115 @@
+FinancialMetric,Source,Quarter,Value
+Expense,Staff,Q1-2023,8950.00
+Expense,Staff,Q2-2023,9060.00
+Expense,Staff,Q3-2023,9140.00
+Expense,Staff,Q4-2023,8760.00
+Expense,Staff,Q1-2024,8430.00
+Expense,Staff,Q2-2024,9920.00
+Expense,Advertising,Q1-2023,1200.00
+Expense,Advertising,Q2-2023,1200.00
+Expense,Advertising,Q3-2023,1200.00
+Expense,Advertising,Q4-2023,1200.00
+Expense,Advertising,Q1-2024,1200.00
+Expense,Advertising,Q2-2024,1200.00
+Expense,Bank Fees,Q1-2023,450.00
+Expense,Bank Fees,Q2-2023,610.00
+Expense,Bank Fees,Q3-2023,530.00
+Expense,Bank Fees,Q4-2023,510.00
+Expense,Bank Fees,Q1-2024,320.00
+Expense,Bank Fees,Q2-2024,635.00
+Expense,Insurance,Q1-2023,1700.00
+Expense,Insurance,Q2-2023,1700.00
+Expense,Insurance,Q3-2023,1700.00
+Expense,Insurance,Q4-2023,1700.00
+Expense,Insurance,Q1-2024,1700.00
+Expense,Insurance,Q2-2024,1700.00
+Expense,Maintenance and Repairs,Q1-2023,300.00
+Expense,Maintenance and Repairs,Q2-2023,0.00
+Expense,Maintenance and Repairs,Q3-2023,2100.00
+Expense,Maintenance and Repairs,Q4-2023,0.00
+Expense,Maintenance and Repairs,Q1-2024,0.00
+Expense,Maintenance and Repairs,Q2-2024,0.00
+Expense,OfficeRent,Q1-2023,6500.00
+Expense,OfficeRent,Q2-2023,6500.00
+Expense,OfficeRent,Q3-2023,6500.00
+Expense,OfficeRent,Q4-2023,6500.00
+Expense,OfficeRent,Q1-2024,6500.00
+Expense,OfficeRent,Q2-2024,6500.00
+Expense,OfficeBills,Q1-2023,2200.00
+Expense,OfficeBills,Q2-2023,2820.00
+Expense,OfficeBills,Q3-2023,2220.00
+Expense,OfficeBills,Q4-2023,2490.00
+Expense,OfficeBills,Q1-2024,2910.00
+Expense,OfficeBills,Q2-2024,2355.00
+Expense,StaffBenefits-Q1,2023,895.00
+Expense,StaffBenefits-Q2,2023,906.00
+Expense,StaffBenefits-Q3,2023,914.00
+Expense,StaffBenefits-Q4,2023,876.00
+Expense,StaffBenefits-Q1,2024,843.00
+Expense,StaffBenefits-Q2,2024,992.00
+Expense,Utilities,Q1-2023,650.00
+Expense,Utilities,Q2-2023,840.00
+Expense,Utilities,Q3-2023,820.00
+Expense,Utilities,Q4-2023,730.00
+Expense,Utilities,Q1-2024,890.00
+Expense,Utilities,Q2-2024,640.00
+Expense,Internet,Q1-2023,250.00
+Expense,Internet,Q2-2023,250.00
+Expense,Internet,Q3-2023,250.00
+Expense,Internet,Q4-2023,250.00
+Expense,Internet,Q1-2024,250.00
+Expense,Internet,Q2-2024,250.00
+Expense,Printing,Q1-2023,90.00
+Expense,Printing,Q2-2023,100.00
+Expense,Printing,Q3-2023,90.00
+Expense,Printing,Q4-2023,90.00
+Expense,Printing,Q1-2024,130.00
+Expense,Printing,Q2-2024,80.00
+Expense,LicencesAndSoftware,Q1-2023,3500.00
+Expense,LicencesAndSoftware,Q2-2023,3500.00
+Expense,LicencesAndSoftware,Q3-2023,3500.00
+Expense,LicencesAndSoftware,Q4-2023,3500.00
+Expense,LicencesAndSoftware,Q1-2024,3500.00
+Expense,LicencesAndSoftware,Q2-2024,3500.00
+Expense,TotalExpense,Q1-2023,26685.00
+Expense,TotalExpense,Q2-2023,27486.00
+Expense,TotalExpense,Q3-2023,28964.00
+Expense,TotalExpense,Q4-2023,26606.00
+Expense,TotalExpense,Q1-2024,26673.00
+Expense,TotalExpense,Q2-2024,27772.00
+Income,GrantsAndSubsidies,Q1-2023,5000.00
+Income,GrantsAndSubsidies,Q2-2023,0.00
+Income,GrantsAndSubsidies,Q3-2023,0.00
+Income,GrantsAndSubsidies,Q4-2023,0.00
+Income,GrantsAndSubsidies,Q1-2024,0.00
+Income,GrantsAndSubsidies,Q2-2024,5000.00 	
+Income,Subscriptions,Q1-2023,7400.00
+Income,Subscriptions,Q2-2023,7600.00
+Income,Subscriptions,Q3-2023,8000.00
+Income,Subscriptions,Q4-2023,8000.00
+Income,Subscriptions,Q1-2024,7500.00
+Income,Subscriptions,Q2-2024,8300.00
+Income,OnlineSales,Q1-2023,500.00
+Income,OnlineSales,Q2-2023,900.00
+Income,OnlineSales,Q3-2023,1400.00
+Income,OnlineSales,Q4-2023,2300.00
+Income,OnlineSales,Q1-2024,2500.00
+Income,OnlineSales,Q2-2024,3500.00
+Income,Cash,Q1-2023,21000.00
+Income,Cash,Q2-2023,24000.00
+Income,Cash,Q3-2023,23000.00
+Income,Cash,Q4-2023,21000.00
+Income,Cash,Q1-2024,26000.00
+Income,Cash,Q2-2024,30000.00
+Income,TotalIncome,Q1-2023,33900.00
+Income,TotalIncome,Q2-2023,32500.00
+Income,TotalIncome,Q3-2023,32400.00
+Income,TotalIncome,Q4-2023,31300.00
+Income,TotalIncome,Q1-2024,41000.00
+Income,TotalIncome,Q2-2024,41800.00
+ProfitLoss,TotalProfitLoss,Q1-2023,7215.00
+Profit/Loss,TotalProfitLoss,Q2-2023,5014.00
+Profit/Loss,TotalProfitLoss,Q3-2023,3436.00
+Profit/Loss,TotalProfitLoss,Q4-2023,4694.00
+Profit/Loss,TotalProfitLoss,Q1-2024,14327.00
+Profit/Loss,TotalProfitLoss,Q2-2024,14028.00
