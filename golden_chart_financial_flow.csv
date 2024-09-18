@@ -1,0 +1,115 @@
+FinancialMetric,Source,Quarter,Year,Value
+Expense,Staff,1,2023,8950.00
+Expense,Staff,2,2023,9060.00
+Expense,Staff,3,2023,9140.00
+Expense,Staff,4,2023,8760.00
+Expense,Staff,1,2024,8430.00
+Expense,Staff,2,2024,9920.00
+Expense,Advertising,1,2023,1200.00
+Expense,Advertising,2,2023,1200.00
+Expense,Advertising,3,2023,1200.00
+Expense,Advertising,4,2023,1200.00
+Expense,Advertising,1,2024,1200.00
+Expense,Advertising,2,2024,1200.00
+Expense,Bank Fees,1,2023,450.00
+Expense,Bank Fees,2,2023,610.00
+Expense,Bank Fees,3,2023,530.00
+Expense,Bank Fees,4,2023,510.00
+Expense,Bank Fees,1,2024,320.00
+Expense,Bank Fees,2,2024,635.00
+Expense,Insurance,1,2023,1700.00
+Expense,Insurance,2,2023,1,700.00
+Expense,Insurance,3,2023,1700.00
+Expense,Insurance,4,2023,1700.00
+Expense,Insurance,1,2024,1700.00
+Expense,Insurance,2,2024,1700.00
+Expense,Maintenance and Repairs,1,2023,300.00
+Expense,Maintenance and Repairs,2,2023,
+Expense,Maintenance and Repairs,3,2023,2100.00
+Expense,Maintenance and Repairs,4,2023,
+Expense,Maintenance and Repairs,1,2024,
+Expense,Maintenance and Repairs,2,2024,
+Expense,OfficeRent,1,2023,6500.00
+Expense,OfficeRent,2,2023,6500.00
+Expense,OfficeRent,3,2023,6500.00
+Expense,OfficeRent,4,2023,6500.00
+Expense,OfficeRent,1,2024,6500.00
+Expense,OfficeRent,2,2024,6500.00
+Expense,OfficeBills,1,2023,2200.00
+Expense,OfficeBills,2,2023,2820.00
+Expense,OfficeBills,3,2023,2220.00
+Expense,OfficeBills,4,2023,2490.00
+Expense,OfficeBills,1,2024,2910.00
+Expense,OfficeBills,2,2024,2355.00
+Expense,StaffBenefits,1,2023,895.00
+Expense,StaffBenefits,2,2023,906.00
+Expense,StaffBenefits,3,2023,914.00
+Expense,StaffBenefits,4,2023,876.00
+Expense,StaffBenefits,1,2024,843.00
+Expense,StaffBenefits,2,2024,992.00
+Expense,Utilities,1,2023,650.00
+Expense,Utilities,2,2023,840.00
+Expense,Utilities,3,2023,820.00
+Expense,Utilities,4,2023,730.00
+Expense,Utilities,1,2024,890.00
+Expense,Utilities,2,2024,640.00
+Expense,Internet,1,2023,250.00
+Expense,Internet,2,2023,250.00
+Expense,Internet,3,2023,250.00
+Expense,Internet,4,2023,250.00
+Expense,Internet,1,2024,250.00
+Expense,Internet,2,2024,250.00
+Expense,Printing,1,2023,90.00
+Expense,Printing,2,2023,100.00
+Expense,Printing,3,2023,90.00
+Expense,Printing,4,2023,90.00
+Expense,Printing,1,2024,130.00
+Expense,Printing,2,2024,80.00
+Expense,LicencesAndSoftware,1,2023,3500.00
+Expense,LicencesAndSoftware,2,2023,3500.00
+Expense,LicencesAndSoftware,3,2023,3500.00
+Expense,LicencesAndSoftware,4,2023,3500.00
+Expense,LicencesAndSoftware,1,2024,3500.00
+Expense,LicencesAndSoftware,2,2024,3500.00
+Expense,TotalExpense,1,2023,26685.00
+Expense,TotalExpense,2,2023,27486.00
+Expense,TotalExpense,3,2023,28964.00
+Expense,TotalExpense,4,2023,26606.00
+Expense,TotalExpense,1,2024,26673.00
+Expense,TotalExpense,2,2024,27772.00
+Income,GrantsAndSubsidies,1,2023,5000.00
+Income,GrantsAndSubsidies,2,2023,
+Income,GrantsAndSubsidies,3,2023,
+Income,GrantsAndSubsidies,4,2023,
+Income,GrantsAndSubsidies,1,2024,
+Income,GrantsAndSubsidies,2,2024,5000.00 	
+Income,Subscriptions,1,2023,7400.00
+Income,Subscriptions,2,2023,7600.00
+Income,Subscriptions,3,2023,8000.00
+Income,Subscriptions,4,2023,8000.00
+Income,Subscriptions,1,2024,7500.00
+Income,Subscriptions,2,2024,8300.00
+Income,OnlineSales,1,2023,500.00
+Income,OnlineSales,2,2023,900.00
+Income,OnlineSales,3,2023,1400.00
+Income,OnlineSales,4,2023,2300.00
+Income,OnlineSales,1,2024,2500.00
+Income,OnlineSales,2,2024,3500.00
+Income,Cash,1,2023,21000.00
+Income,Cash,2,2023,24000.00
+Income,Cash,3,2023,23000.00
+Income,Cash,4,2023,21000.00
+Income,Cash,1,2024,26000.00
+Income,Cash,2,2024,30000.00
+Income,TotalIncome,1,2023,33900.00
+Income,TotalIncome,2,2023,32500.00
+Income,TotalIncome,3,2023,32400.00
+Income,TotalIncome,4,2023,31300.00
+Income,TotalIncome,1,2024,41000.00
+Income,TotalIncome,2,2024,41800.00
+ProfitLoss,TotalProfitLoss,1,2023,7215.00
+Profit/Loss,TotalProfitLoss,2,2023,5014.00
+Profit/Loss,TotalProfitLoss,3,2023,3436.00
+Profit/Loss,TotalProfitLoss,4,2023,4694.00
+Profit/Loss,TotalProfitLoss,1,2024,14327.00
+Profit/Loss,TotalProfitLoss,2,2024,14028.00
