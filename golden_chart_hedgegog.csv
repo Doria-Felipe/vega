@@ -1,5 +1,5 @@
 Days,Weight (g),Total Weight Gain (g),Hedgehog
-1,345,-,Hedgehog 1
+1,345,,Hedgehog 1
 4,354,9,Hedgehog 1
 7,373,28,Hedgehog 1
 10,383,38,Hedgehog 1
@@ -15,7 +15,7 @@ Days,Weight (g),Total Weight Gain (g),Hedgehog
 40,478,133,Hedgehog 1
 43,491,146,Hedgehog 1
 46,505,160,Hedgehog 1
-1,350,-,Avg. Hedgehog
+1,350,,Avg. Hedgehog
 3,365,15,Avg. Hedgehog
 6,380,30,Avg. Hedgehog
 9,405,55,Avg. Hedgehog
